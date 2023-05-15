@@ -1,3 +1,6 @@
+h1{
+    text-align: center;
+}
 *{
     box-sizing: border-box;
     margin:0;
@@ -38,7 +41,7 @@
     font-size:100%;
   }
   
-  .item-title{
+  .item{
     position: absolute;
     top:0;
     right: 0px;
@@ -48,15 +51,15 @@
     border-bottom: 2px solid #000;
   }
   
-  #title-one {
+   .item_1{
     background-color: #D59898;
   } 
   
-  #title-two{
+  .item_2{
     background-color: #C14543;
   }
   
-  #title-three{
+  .item_3{
     background-color: #E5D198;
   }
   
